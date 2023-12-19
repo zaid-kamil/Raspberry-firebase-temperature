@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carpool-app-digiodium",
+  "private_key_id": "767c70172800b5dc4bb3f7151f23f3e37b558154",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHG9HK0yK0S+0u\nMBkb/A2ih7JWKMsoh//LCjbQrcoML7L0xKmMqo1MQlpTNpk4W2FV5MAd60bmsotJ\nIGYyUIzXr+CJ2Cpe1NFQWvFnmDI1xZjFXMOahWLQ7N7Or0OsUc7lmQZZMzc5dLU1\ntYK7HPoEZxcIytfp/gCECmTqA9FQEYdUqVOSE5700SOvDdftyRfGuKxObFoKxaSB\n07Wf8J/pCoQtc42OI2AE1KrqxNU6E34kv1DVjbpRZXXO76WogRj/G52ekMZE1tYV\n8UxgqfnF1fXSmMNBuEPM77T+F8TPS0cTGsCjz4WnF0I0A7BqZ64zXdfuY14eBqrM\nKCcAuow5AgMBAAECggEABVBLwAL0eSVRlhr4gJOwdXbznnMGQPWoMO372oPY0Yxw\nVTHuaG+gx7k5meDqI+PkbBtnuSSvRrbbGr9/mrYlnBf4gRVAxDkfwOo8aQxZwq+c\nTSAVpEkNAxBfPdrVjoK8Z8o2rii8v47Kyz0l2QKD9ZwetEBdlMQPlXaFjO0/J8jT\n1dt4PS3bxnifteIVVxeDQfiLz/yOO+0Kr0gEFQeDEr33kcMix2ovrgvcNxTb0Gmm\n/yio/m1b3mnkq3hUgLspcThIbng9LmT9GPU/T280ynSNn0jnBWRwicTDm1BuPN+I\n4IsitgjiWpUwyfSTSd62Zz7s/TDK073e9BUNlU0qhQKBgQD+Xvx8dodA15pWwXOp\nlw19kp9jP7yuW/1k9pxN0WIYcm3p7OPcM54X+Qc6HCEHtXtGMYupsuyqX1a0wQJl\nK2JToll5cvV2hYWuLiXcEHvwDjahulQHtMBzi2fOcP/7loVjQJVfksaeB36KVX2F\nDOeDq+9D78+kJGFTdTjLkZNpvwKBgQDIYjyPlZsoWSrFiROih8m/v+kD5J/UmH5j\ngN42nsDdfccmg37H9dLX5KSQuWfOgLiBmfd5BCH4adKVh49JaIf8MemQ0AcXJ/I8\njSQ+4w8e/Ylcm6Gh5JNqD0gszAa59HOquhNR9y/IO2Z1iuTVrIo5we54dcDztoGr\n8qvIkudYBwKBgQCBUXz/MasVVgcK8BKDN14OZwpNBMxBwFaUi6NvFHHQh+xFLr+w\n5TUMbvgznLVWG/dt+iZMwb/75bhI8I7tLB8y8aiXS9BqzvrlUGTC+kZoBnHTysyJ\nlmT42PiPRXd+SknJ6b2G9zGuiZTVcxz7FVJl6HUdjr97bVtleITFSV8uNQKBgGbT\ncjxECxCTYQ1on/jBMVgCRLJIuXPApOqukFj68gE2r+EljQNTM9SxcXkKiyg+iW+H\n8KPa6QuuUe+FVpPW3iEeA7rZ5SmOyBEmZDkZDwNaGwi4nCKVRsgf+2txbuoxdMFh\nJtTiwVRAlv0uPuse1Pd6esK5uj/VoYj4yAnuyGQ1AoGAeIqcAFWs1SnwaeG29mTA\nLfsSSH8EgTklIORoZRrbACBwNhmmAtuwXYg9Bv6TqlseVXJviQ+3SFJplFhNtykV\ndHhCFabhIlpOk1sYiuJ3TIJWAS/guDzOI8Cps9WimMcilHQGCYTZ8DltrlI5FtZD\n9Q5/PwpRCYWhTgLT68Gf2/Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hw7da@carpool-app-digiodium.iam.gserviceaccount.com",
+  "client_id": "111752129016617054497",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hw7da%40carpool-app-digiodium.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
